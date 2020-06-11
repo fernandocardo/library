@@ -6,3 +6,6 @@ docker build . -t library
 
 ## Rode sua aplicação asp.net core 3.1
 http://localhost:5010/api/book
+
+## Consulta seu banco de dados com o Adminer
+http://localhost:8080/
