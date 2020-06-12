@@ -16,3 +16,8 @@ http://localhost:5010/api/book
 http://localhost:8080/
 
 No diretório /data está o script sql para a criação do banco de dados.
+
+
+## Criação de Solution
+dotnet new sln -n library
+dotnet sln library.sln add library.api/library.api.csproj
